@@ -1,0 +1,44 @@
+.p1stuff {
+  display: inline;
+  position: relative;
+}
+body {
+  background-color: cornsilk;
+}
+
+.p2stuff {
+  display: inline;
+}
+
+#title {
+  text-align: center;
+  font-size: 50px;
+  border: 3px solid bisque;
+  background-color: antiquewhite;
+  border-radius: 20px;
+}
+
+#display2 {
+  display: inline;
+}
+
+#p2guess {
+  margin-left: 400;
+  margin-top: 50px;
+}
+#p1guess {
+  margin-left: 200;
+  margin-top: 50px;
+}
+
+#rules {
+  top: 500;
+}
+
+#song {
+  display: none;
+}
+
+#happy {
+  margin-top: 450;
+}
